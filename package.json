@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/acidjazz/nuxt-tailvue.git"
+    "url": "git+ssh://git@github.com/kiuve/nuxt-notifications.git"
   },
   "keywords": [
     "nuxtjs",
@@ -30,9 +30,9 @@
   "author": "kevin olson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/acidjazz/nuxt-tailvue/issues"
+    "url": "https://github.com/kiuve/nuxt-notifications/issues"
   },
-  "homepage": "https://github.com/acidjazz/nuxt-tailvue#readme",
+  "homepage": "https://github.com/kiuve/nuxt-tailvue#readme",
   "dependencies": {
     "tv-button": "latest",
     "tv-icon": "latest",
