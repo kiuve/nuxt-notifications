@@ -1,7 +1,7 @@
 {
-  "name": "nuxt-tailvue",
+  "name": "nuxt-notifications",
   "version": "1.0.95",
-  "description": "nuxt module for tailvue components",
+  "description": "nuxt module for tailwind-toast-vue components",
   "main": "module.js",
   "types": "types/index.d.ts",
   "files": [
@@ -37,6 +37,6 @@
     "tv-button": "latest",
     "tv-icon": "latest",
     "tv-modal": "latest",
-    "tv-toast": "latest"
+    "tailwind-toast-vue": "latest"
   }
 }
