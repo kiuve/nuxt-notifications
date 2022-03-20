@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import { TvToast, spawn, removeElement, containerClasses } from 'tv-toast'
+import { TvToast, spawn, removeElement, containerClasses } from 'tailwind-toast-vue'
 
 import options from './options'
 
