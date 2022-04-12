@@ -17,10 +17,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/kiuve/nuxt-notifications.git"
-  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git+ssh://git@github.com/kiuve/nuxt-notifications.git"
+    },
+    {
+      "type": "git",
+      "url": "git+ssh://git@github.com/kiuve/tailwind-toast-vue.git"
+    }
+  ],
   "keywords": [
     "nuxtjs",
     "tailwindcss",
@@ -37,6 +43,6 @@
     "tv-button": "latest",
     "tv-icon": "latest",
     "tv-modal": "latest",
-    "tailwind-toast-vue": "git://github.com/kiuve/tailwind-t"
+    "tailwind-toast-vue": "git://github.com/kiuve/tailwind-toast-vue"
   }
 }
