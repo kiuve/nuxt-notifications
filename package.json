@@ -37,6 +37,6 @@
     "tv-button": "latest",
     "tv-icon": "latest",
     "tv-modal": "latest",
-    "tailwind-toast-vue": "latest"
+    "tailwind-toast-vue": "git://github.com/kiuve/tailwind-t"
   }
 }
