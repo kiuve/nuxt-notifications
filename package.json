@@ -20,11 +20,11 @@
   "repositories": [
     {
       "type": "git",
-      "url": "git+ssh://git@github.com/kiuve/nuxt-notifications.git"
+      "url": "git+https://github.com/kiuve/nuxt-notifications.git"
     },
     {
       "type": "git",
-      "url": "git+ssh://git@github.com/kiuve/tailwind-toast-vue.git"
+      "url": "git+https://github.com/kiuve/tailwind-toast-vue.git"
     }
   ],
   "keywords": [
@@ -43,6 +43,6 @@
     "tv-button": "latest",
     "tv-icon": "latest",
     "tv-modal": "latest",
-    "tailwind-toast-vue": "git://github.com/kiuve/tailwind-toast-vue"
+    "tailwind-toast-vue": "git+https://github.com/kiuve/tailwind-toast-vue.git"
   }
 }
