@@ -1,6 +1,6 @@
 {
-  "name": "nuxt-notifications",
-  "version": "1.0.96",
+  "name": "tw-nuxt-notifications",
+  "version": "1.0.1",
   "description": "nuxt module for tailwind-toast-vue components",
   "main": "module.js",
   "types": "types/index.d.ts",
