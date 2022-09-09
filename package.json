@@ -43,6 +43,6 @@
     "tv-button": "latest",
     "tv-icon": "latest",
     "tv-modal": "latest",
-    "tailwind-toast-vue": "master"
+    "tailwind-toast-vue": "^1.2.33"
   }
 }
