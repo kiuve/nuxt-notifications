@@ -43,6 +43,6 @@
     "tv-button": "latest",
     "tv-icon": "latest",
     "tv-modal": "latest",
-    "tw-toast-notifications": "^1.0.0"
+    "tw-toast-notifications": "^1.0.1"
   }
 }
